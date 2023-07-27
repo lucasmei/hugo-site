@@ -1,10 +1,11 @@
 baseURL = 'https://lucasmei.github.io'
 languageCode = 'en-ca'
 title = 'Lucas Mei - Linguistics'
-theme = 'PaperMod'
+theme = 'xmin'
 
 [params]
     footer="[github](https://github.com/lucasmei)"
+
 [menu]
 [[menu.main]]
     name="home"
@@ -18,3 +19,12 @@ theme = 'PaperMod'
     name="skills"
     pageRef="skills"
     weight=30
+
+[[menu.footer_1]]
+    name="github"
+    url="https://github.com/lucasmei"
+    weight=0
+[[menu.footer_2]]
+    name="resume"
+    url="TBA"
+    weight=1
