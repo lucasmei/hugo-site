@@ -1,3 +1,20 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://lucasmei.github.io'
+languageCode = 'en-ca'
+title = 'Lucas Mei - Linguistics'
+theme = 'PaperMod'
+
+[params]
+    footer="[github](https://github.com/lucasmei)"
+[menu]
+[[menu.main]]
+    name="home"
+    pageRef="/"
+    weight=10
+[[menu.main]]
+    name="about me"
+    pageRef="aboutme"
+    weight=20
+[[menu.main]]
+    name="skills"
+    pageRef="skills"
+    weight=30
