@@ -1,6 +1,3 @@
 [submodule "themes/xmin"]
     path = "themes/xmin"
     url = "https://github.com/yihui/hugo-xmin.git"
-[submodule "public"]
-	path = public
-	url = "https://github.com/lucasmei/lucasmei.github.io.git"
