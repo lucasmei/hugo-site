@@ -4,12 +4,12 @@ title = 'Skills'
 
 ## Languages
 ### Most comfortable
-- English (Native)
-- Spanish (approx. B1)
+- English 🇨🇦 (Native)
+- Spanish 🇨🇱 (approx. B1)
 
 ### Studying (passively)
-- Japanese (N5)
-- French (A2)
+- Japanese 🇯🇵 (N4-N5)
+- French 🇨🇦 (A2)
 
 ---
 
