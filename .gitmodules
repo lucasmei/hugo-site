@@ -1,3 +1,9 @@
 [submodule "themes/xmin"]
     path = "themes/xmin"
     url = "https://github.com/yihui/hugo-xmin.git"
+[submodule "themes/hugo-simplecss"]
+	path = themes/hugo-simplecss
+	url = https://github.com/splch/hugo-simplecss.git
+[submodule "public"]
+    path = "public"
+    url = "https://github.com/lucasmei/lucasmei.github.io.git"
