@@ -1,7 +1,7 @@
 baseURL = 'https://lucasmei.github.io'
 languageCode = 'en-ca'
 title = 'Lucas Mei - Linguistics'
-theme = 'hugo-simplecss'
+theme = 'xmin'
 
 [params]
     footer="[github](https://github.com/lucasmei) | [resume](https://drive.google.com/file/d/1nj0I0oBOOHOa6aEsCC0v67NVxtpqDxMW/view?usp=sharing)"
